@@ -1,6 +1,6 @@
 # DECS #
 
-Implementation of "Detecting the Evolving Community Structure in Dynamic Social Networks".
+Implementation of "[Detecting the Evolving Community Structure in Dynamic Social Networks](https://link.springer.com/article/10.1007/s11280-019-00710-z)".
 
 If you find this method helpful for your research, please cite this paper.
 
